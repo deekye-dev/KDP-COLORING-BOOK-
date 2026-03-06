@@ -1,0 +1,5 @@
+{
+  "name": "KDP Colouring Book Generator",
+  "description": "Automatically generate Amazon KDP-ready colouring books using AI-generated line art.",
+  "requestFramePermissions": []
+}
